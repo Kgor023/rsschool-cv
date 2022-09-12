@@ -17,3 +17,23 @@ My path and the realization that I want to do programming came to my at second y
 
 ---
 
+### Skills
+* HTML5
+* CSS3
+* JavaScript
+* C
+* Git/GitHub
+* Adobe Photoshop, Figma
+
+
+---
+
+### Code example
+```
+function multiply(a, b){
+ return a * b
+}
+```
+
+---
+
