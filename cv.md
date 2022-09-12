@@ -37,3 +37,20 @@ function multiply(a, b){
 
 ---
 
+### Education
+
+* Belarusian State University of Informatics and Radioelectronics (the faculty of Economics of e-business)
+* Courses
+  + Stepik (Fundamental of JavaScript, Fundamental oh HTML and CSS)
+  + UDEMY (JavaScript programming)
+  + Belhard Academy (C programming )
+
+---
+
+### Languages
+
+* English - B1
+* Russian - Native
+* Belarusian - Native
+
+---
